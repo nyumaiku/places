@@ -1,0 +1,55 @@
+{
+  "places":{
+      "apiversion":0.1,
+      "placesList":[
+        {
+          "placeId":1,
+          "placeName":"Facultad de estudios Tecnológicos",
+          "latitude":13.715578,
+          "longitude":-89.152609
+        },
+        {
+          "placeId":2,
+          "placeName":"Volcán de San Vicente",
+          "latitude":13.5999862,
+          "longitude":-88.9200405
+        },
+        {
+          "placeId":3,
+          "placeName":"Volcán de Izalco",
+          "latitude":13.8137345,
+          "longitude":-89.6676578
+        },
+        {
+          "placeId":4,
+          "placeName":"Volcán de Santa Ana",
+          "latitude":13.854398,
+          "longitude":-89.643246
+        },
+        {
+          "placeId":4,
+          "placeName":"Volcán de San Salvador",
+          "latitude":13.7371443,
+          "longitude":-89.290824
+        },
+        {
+          "placeId":5,
+          "placeName":"Volcán de San Miguel",
+          "latitude":13.4350771,
+          "longitude":-88.3041862
+        },
+        {
+          "placeId":6,
+          "placeName":"Volcán de San Miguel",
+          "latitude":13.5967436,
+          "longitude":-88.8725195
+        },
+        {
+          "placeId":7,
+          "placeName":"Volcán de Tecapa",
+          "latitude":13.4833734,
+          "longitude":-88.5341763
+        }
+    ]
+  }
+}
