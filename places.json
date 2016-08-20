@@ -18,7 +18,7 @@
           "placeId":4,
           "placeName":"Volcán de Santa Ana",
           "latitude":13.8554813,
-          "longitude":89.6457351
+          "longitude":-89.6457351
         },
         {
           "placeId":4,
@@ -30,7 +30,7 @@
           "placeId":5,
           "placeName":"Volcán de San Miguel",
           "latitude":13.4334104,
-          "longitude":88.3016863
+          "longitude":-88.3016863
         },
         {
           "placeId":6,
