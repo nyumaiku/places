@@ -1,0 +1,20 @@
+{
+  "places":[{
+    "id":"2",
+    "images":[
+      "http://api.learn2crack.com/android/images/jellybean.png",
+      "http://api.learn2crack.com/android/images/kitkat.png",
+      "http://api.learn2crack.com/android/images/lollipop.png",
+      "http://api.learn2crack.com/android/images/marshmallow.png"
+    ]
+  },
+  {"id":"3",
+  "images":[
+    "http://api.learn2crack.com/android/images/jellybean.png",
+    "http://api.learn2crack.com/android/images/kitkat.png",
+    "http://api.learn2crack.com/android/images/lollipop.png",
+    "http://api.learn2crack.com/android/images/marshmallow.png"
+  ]
+}
+]
+}
