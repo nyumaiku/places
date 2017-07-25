@@ -1,0 +1,50 @@
+{
+    "titulo": "La maldad",
+    "autor": "b58310976001292d",
+    "tecnica": "Temperas",
+    "fechadecreacion": "19-02-2010",
+    "analisis": "La maldad es un cuadro de Cesar callejas, expresa la crueldad de los hombres hacia sí mismos.",
+    "imagen": [
+      "b341dbf8f3cf48f2"
+    ],
+    "video": "a6753ce82ed8b9a2",
+    "audioresumen": "2eda80eaf192ca34",
+    "audio": "2eda80eaf192ca34",
+    "id": "547c18f6f7c8cade",
+    "datosAudios": {
+      "subdir": "audio",
+      "comments": "audio",
+      "filename": "04-1413263-LukHash-PAPERGIRL.mp3",
+      "filesize": 5015040,
+      "creationDate": 1500509472031,
+      "type": "audio/mpeg",
+      "id": "2eda80eaf192ca34"
+    },
+    "datosVideos": {
+      "subdir": "video",
+      "comments": "video",
+      "filename": "cinnamon-20170719-1.webm",
+      "filesize": 313347,
+      "creationDate": 1500509691590,
+      "type": "video/webm",
+      "id": "a6753ce82ed8b9a2"
+    },
+    "datosAudiosResumen": {
+      "subdir": "audio",
+      "comments": "audio",
+      "filename": "04-1413263-LukHash-PAPERGIRL.mp3",
+      "filesize": 5015040,
+      "creationDate": 1500509472031,
+      "type": "audio/mpeg",
+      "id": "2eda80eaf192ca34"
+    },
+    "datosAutor": {
+      "nombre": "Cesar",
+      "apellido": "Callejas",
+      "fechadenacimiento": "12-08-17",
+      "fechadedifuncion": "12-08-19",
+      "resumen": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ac dictum augue. Aliquam dictum, mi quis pulvinar accumsan, ex nisi pulvinar orci, at posuere dolor elit nec dolor. In hac habitasse platea dictumst. Quisque rhoncus arcu sed varius condimentum. Nunc luctus scelerisque turpis, sit amet pharetra ligula tempus a. Integer suscipit magna eu lacinia malesuada. Maecenas blandit interdum lacus, id interdum sem sodales et. Mauris vel placerat arcu. Duis ante nibh, cursus nec risus id, consectetur hendrerit erat. Cras at ex sit amet magna dapibus egestas vitae sed nunc. Nullam ut dui magna.",
+      "imagen": "b341dbf8f3cf48f2",
+      "id": "b58310976001292d"
+    }
+  }
