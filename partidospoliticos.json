@@ -1,0 +1,27 @@
+{
+	"evento":"Elecciones",
+	"annio":2019,
+	"motivo":"Elecciones presidenciales",
+	"partidos":[
+		{
+			"nombre":"Alianza Republicana Nacionalista",
+			"abreviacion":"ARENA",
+			"candidato":"Carlos Calleja"
+		},
+		{
+			"nombre":"Frente Farabundo Martí por la Liberación Nacional",
+			"abreviacion":"FMLN",
+			"candidato":"Carlos Calleja"
+		},
+		{
+			"nombre":"Gran Alianza por la Unidad Nacional",
+			"abreviacion":"GANA",
+			"candidato":"Nayib Bukele"
+		},
+		{
+			"nombre":"Vamos",
+			"abreviacion":"VAMOS",
+			"candidato":"Josué Alvarado"
+		}
+	]
+}
