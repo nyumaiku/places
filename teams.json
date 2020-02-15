@@ -196,38 +196,6 @@
 	  ]
 	},
 	{
-	  "id": 7,
-	  "team_name": "HULL CITY",
-	  "since": "1904",
-	  "coach": "Steve Bruce",
-	  "team_nickname": "The Tigers",
-	  "stadium": "The KC Stadium",
-	  "img_logo": "https://lh5.googleusercontent.com/-FDAxACUt9YM/AAAAAAAAAAI/AAAAAAAAEzM/_WAwpTyXF2U/s0-c-k-no-ns/photo.jpg",
-	  "img_stadium": "http://www.arsenal.com/assets/_files/scaled/696x392/mar_15/gun__1426842045_ground_hullcity.jpg",
-	  "latitude": "53.746522",
-	  "longitude": "-0.367692",
-	  "website": "http://kcstadium.co.uk/",
-	  "tickets_url": "http://kcstadium.co.uk/kc-stadium/tickets",
-	  "address": "West Park, Hull HU3 6HU, United Kingdom",
-	  "phone_number": "+44 1482 504600",
-	  "description": "Hull City Association Football Club is an English association football club based in Kingston upon Hull, East Riding of Yorkshire. It was founded in 1904.",
-	  "video_url": "https://www.youtube.com/watch?v=tNMXk840XKs",
-	  "schedule_games": [
-	    {
-	      "date": "2015-04-11 17:00:00 +0100",
-	      "stadium": "St. Mary's Stadium"
-	    },
-	    {
-	      "date": "2015-04-18 18:00:00 +0100",
-	      "stadium": "Selhurst Park"
-	    },
-	    {
-	      "date": "2015-04-25 17:00:00 +0100",
-	      "stadium": "The KC Stadium"
-	    }
-	  ]
-	},
-	{
 	  "id": 8,
 	  "team_name": "LEICESTER CITY",
 	  "since": "1884",
@@ -299,7 +267,7 @@
 	  "team_nickname": "The Citizens",
 	  "stadium": "Etihad Stadium",
 	  "img_logo": "https://lh6.googleusercontent.com/-WQH-4G14xyQ/AAAAAAAAAAI/AAAAAAAB_0Y/HIgjM_2cBgo/s0-c-k-no-ns/photo.jpg",
-	  "img_stadium": "http://content.mcfc.co.uk/~/media/Images/Home/News/Club%20news/cityofmanchesterstadium_internal_2009.ashx",
+	  "img_stadium": "https://www.palco23.com/files//0002017/000redaccion/premier%20league/manchester%20city/mancity-etihad-728.jpg",
 	  "latitude": "53.483138",
 	  "longitude": "-2.200395",
 	  "website": "http://www.mcfc.co.uk/",
@@ -331,7 +299,7 @@
 	  "team_nickname": "The Red Devils",
 	  "stadium": "Old Trafford",
 	  "img_logo": "http://i1101.photobucket.com/albums/g429/1arko23/WEBSITE/MANCHESTER%20UNITED/man-united-old-badge.jpg",
-	  "img_stadium": "https://www.palco23.com/files//0002017/000redaccion/premier%20league/manchester%20city/mancity-etihad-728.jpg",
+	  "img_stadium": "https://d1wgio6yfhqlw1.cloudfront.net/sysimages/product/resized4/Manchester_United_Football_Match_at_Old_Trafford_Stadium_3976_54575.jpg",
 	  "latitude": "53.463059",
 	  "longitude": "-2.29134",
 	  "website": "http://www.manutd.com/en/Visit-Old-Trafford/Museum-And-Stadium-Tour/Stadium-Tour.aspx",
